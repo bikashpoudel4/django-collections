@@ -1,0 +1,34 @@
+# Django Rest Framework
+	> pip install djangorestframework
+	
+	# Markdown support for the browsable API.
+	> pip install markdown 
+	
+	# Filtering support
+	> pip install django-filter
+
+# JWT (Json Web Token)
+	> pip install djangorestframework-jwt
+
+# Cors (Front-end -- Backend intraction)
+	> pip install django-cors-headers
+
+# pyotp for otp generations
+# totp for time based otp
+	> pip install pyotp
+
+# passlib for hashing password
+	> pip install passlib
+
+# pillow for images
+	> pip install pillow
+
+# For PostgreSql 
+	> pip install psycopg2-binary
+	> pip install psycopg2
+
+# mysqlclient for Mysql Connection
+	> pip install mysqlclient
+
+# Swaggar for api documentation
+	> pip install drf-yasg
