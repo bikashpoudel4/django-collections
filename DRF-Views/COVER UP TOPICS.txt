@@ -1,0 +1,12 @@
+from rest_framework.urlpatterns import format_suffix_patterns
+
+Validaters
+from rest_framework.reverse import reverse
+
+----------------------Very Imp for Django rest framework-----------------------------
+
+https://www.cdrf.co/3.7/rest_framework.mixins/CreateModelMixin.html
+
+Generic RUDA Http Respponse = https://www.geeksforgeeks.org/browsable-api-in-django-rest-framework/
+
+---------------End-------Very Imp for Django rest framework-----------------------------
