@@ -1,0 +1,18 @@
+[
+    {
+        "model": "graphql_api.user",
+        "pk": 1,
+        "fields":{
+            "name": "Vkash Poudel",
+            "followers": []
+        }        
+    },
+    {
+        "model": "graphql_api.user",
+        "pk": 2,
+        "fields":{
+            "name": "Avin Gyawli",
+            "followers": [1]
+        }
+    }
+]
