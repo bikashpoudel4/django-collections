@@ -1,0 +1,6 @@
+INSTALLATION
+
+pip install drf-yasg
+
+SWAGGER DOCS
+https://drf-yasg.readthedocs.io/en/stable/readme.html
