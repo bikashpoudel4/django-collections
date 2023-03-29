@@ -1,0 +1,5 @@
+pip install django-summernote
+
+
+We have to use the safe templatetag while displaying in templates. in html
+{{ content|safe }}
